@@ -11,4 +11,5 @@
 <a href="http://trac.gateworks.com/wiki/OpenWrt/kernelconfig">参考文献</a><br>
 <a href="https://sunbk201public.notion.site/sunbk201public/OpenWrt-f59ae1a76741486092c27bc24dbadc59">SunBk201</a>，
 <a href="https://github.com/P3TERX/Actions-OpenWrt">P3TERX</a>，
+<a href="https://github.com/P3TERX/Actions-OpenWrt">P3TERX</a>，MoorCorpa</a>，
 <a href="https://github.com/Zxilly/UA2F">Zxilly</a>，等大佬做出的奉献
